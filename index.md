@@ -2,6 +2,7 @@
 
 Mechanical Engineering student focused on rocketry, manufacturing, thermal analysis, and mechanical system design.
 
+[View Resume](resume.pdf)
 ---
 
 ## Projects
