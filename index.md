@@ -7,7 +7,7 @@ Mechanical Engineering student focused on rocketry, manufacturing, thermal analy
 
 ## Projects
 
-### Rocket Avionics & Flight Systems
+### [Rocket Avionics & Flight Systems](rocket-avionics.md)
 Integrated onboard avionics systems including accelerometers, altimeters, and onboard data acquisition for rocket flight analysis and stability validation.
 
 ### FRC Robotics Manufacturing & Design
